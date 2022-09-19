@@ -1,5 +1,5 @@
 # "Hey look at me: The Effect of Giving Circles on Giving" - Results Confirmation
-### A replication of results from the data provided on Harvard's Dataverse 
+### A replication of results from the data provided on Harvard's Dataverse. 
 
 I replicate the results using R from a research paper that finds that public recognition of giving will boost giving. It is found that people, at least within this isolated Yale example, give to bolster their social image rather than in order to motivate others to give - a more self-interested viewpoint. The results from the paper are confirmed in my replication and the subsequent paper attached.
 
